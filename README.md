@@ -3,7 +3,6 @@
 ## With the Planning Team
 
 - **Extracting the graph from CARLA** *(2 days)*  
-  Solving the TSP problem.  
 - **Path smoothing and feasibility check** *(2-3 days)*  
   Ensuring the extracted graph is usable and optimal for TSP solutions.  
 - **Waypoint generation & local planning** *(3 days)*  
