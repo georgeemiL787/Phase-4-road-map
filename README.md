@@ -18,7 +18,7 @@
   Testing perception models in high-traffic situations.  
 - **Dynamic obstacle detection & tracking** *(4 days)*  
   Integrating perception with planning.  
-- **Enhancing our perception outputs** *(Ongoing)*  
+- **Enhancing and optimizing our perception outputs** *(Ongoing)*  
   LIDAR only (pose estimation), camera.  
 
 ## General Additions
