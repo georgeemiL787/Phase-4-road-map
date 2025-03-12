@@ -6,10 +6,10 @@
   Solving the TSP problem.  
 - **Path smoothing and feasibility check** *(2-3 days)*  
   Ensuring the extracted graph is usable and optimal for TSP solutions.  
-- **Waypoint generation & local trajectory planning** *(3 days)*  
+- **Waypoint generation & local planning** *(3 days)*  
   Refining the route for real-world constraints.  
 - **Performance evaluation of TSP solutions** *(2-3 days)*  
-  Testing different algorithms and heuristics.  
+  Testing different algorithms.  
 
 ## With the Perception Team
 
